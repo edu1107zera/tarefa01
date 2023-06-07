@@ -1,0 +1,7 @@
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\bin\Debug\tarefa01.exe.config
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\bin\Debug\tarefa01.exe
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\bin\Debug\tarefa01.pdb
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\obj\Debug\tarefa01.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\obj\Debug\tarefa01.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\obj\Debug\tarefa01.exe
+C:\Users\eduardo.lfuzato\source\repos\tarefa01\tarefa01\obj\Debug\tarefa01.pdb
