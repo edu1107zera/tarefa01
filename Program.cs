@@ -10,9 +10,11 @@ namespace tarefa01
     {
         static void Main(string[] args)
         {
-           int idade;
+         //variaveis
+            int idade;
             string nome;
             string nome2;
+          //processo
             Console.Write("--Digite seu nome:");
             nome = Console.ReadLine();
 
